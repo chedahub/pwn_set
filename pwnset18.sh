@@ -29,14 +29,6 @@ python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade pwntools
 sudo apt-get install libcapstone-dev -y # to rop
 
-#################################
-# pwndbg
-git clone https://github.com/pwndbg/pwndbg
-cd pwndbg
-./setup.sh
-cd ..
-#################################
-
 # checksec
 git clone https://github.com/slimm609/checksec.sh
 sudo cp checksec.sh/checksec /usr/local/bin/
