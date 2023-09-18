@@ -3,7 +3,7 @@ pwnable setting
 
 
 ## 실행
-`sudo apt install git -y`\r\n
+`sudo apt install git -y<br/>
 `git clone https://github.com/chedahub/pwn_set.git`
 
 ## 설치확인
@@ -11,8 +11,8 @@ pwnable setting
 `vim -h`
 
 ### gcc, gdb, pwndbg
-`gcc --version`
-`gdb -q`
+`gcc --version`<br/>
+`gdb -q`<br/>
 `quit`
 
 ### netcat
@@ -22,9 +22,9 @@ pwnable setting
 `git --version`
 
 ### python3, pwntools
-`python3`
-`from pwn import *`
-`quit()`
+`python3`<br/>
+`from pwn import *`<br/>
+`quit()`<br/>
 
 ### checksec
 `checksec -h`
