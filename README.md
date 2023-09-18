@@ -5,7 +5,7 @@ pwnable setting
 ## 실행
 `sudo apt install git -y`<br/>
 `git clone https://github.com/chedahub/pwn_set.git`
-`sudo chmod +x ./pwn_set/pwnset18.sh`
+`sudo chmod 777 ./pwn_set/pwnset18.sh`
 `cd ./pwn_set`
 `./pwnset18.sh`
 
