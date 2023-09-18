@@ -3,7 +3,7 @@ pwnable setting
 
 
 ## 실행
-`sudo apt install git -y<br/>
+`sudo apt install git -y`<br/>
 `git clone https://github.com/chedahub/pwn_set.git`
 
 ## 설치확인
