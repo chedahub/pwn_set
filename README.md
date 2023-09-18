@@ -5,7 +5,11 @@ pwnable setting
 ## 실행
 `sudo apt install git -y`<br/>
 `git clone https://github.com/chedahub/pwn_set.git`
+`sudo chmod +x ./pwn_set/pwnset18.sh`
+`cd ./pwn_set`
+`./pwnset18.sh`
 
+<br/>
 ## 설치확인
 ### vim
 `vim -h`
